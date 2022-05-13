@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "react": "17.0.1",
-    "react-native": "0.64.3"
+    "react-native": "0.64.3",
+    "react-native-pytorch-core": "^0.0.0-05132022-1203-6d01cb035"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",

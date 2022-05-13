@@ -5239,6 +5239,11 @@ react-native-codegen@^0.0.6:
     jscodeshift "^0.11.0"
     nullthrows "^1.1.1"
 
+react-native-pytorch-core@^0.0.0-05132022-1203-6d01cb035:
+  version "0.0.0-05132022-1203-6d01cb035"
+  resolved "https://registry.yarnpkg.com/react-native-pytorch-core/-/react-native-pytorch-core-0.0.0-05132022-1203-6d01cb035.tgz#616ccf1faa4da0854694483de60341f3014784b5"
+  integrity sha512-+I36fe9toAu/sXszxS3Uww3QEk6DVTNBy5WJ6p2dd+T/3mWu+ICqBaxPQhMoisfv/Yco2eqDJQ3idDjmkSN1Jw==
+
 react-native@0.64.3:
   version "0.64.3"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.64.3.tgz#40db6385963b4b17325f9cc86dd19132394b03fc"
